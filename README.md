@@ -2,7 +2,6 @@
 Laboratório da disciplina Desenvolvimento de Jogos Digitais - FEI 2026, 7º ciclo
 
 ### Descrição:
-Laboratório da disciplina Desenvolvimento de Jogos Digitais - FEI 2026, 7º ciclo
 
 O que é o AirHockey?
 - Um jogo de mesa que envolve dois jogadores competindo para marcar pontos empurrando um disco através de uma mesa usando paletas de ar.
